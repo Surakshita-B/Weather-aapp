@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Create React App -Live site
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live Weather app](https://weather-app-bysurakshita.netlify.app/)
 
 ## Available Scripts
 
